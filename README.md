@@ -93,7 +93,6 @@ I'm an IT engineering student passionate about software development, problem-sol
 | Project | Technology | Description |
 |---|---|---|
 | University Management System | Java, MySQL | Student and faculty management |
-| FootyPredict | Python | Football match prediction |
 | Weather Application | JavaScript | Weather information |
 | Tic Tac Toe | JavaScript | Interactive gaming project |
 
