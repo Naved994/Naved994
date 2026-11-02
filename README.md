@@ -195,3 +195,8 @@ while (alive) {
 <sub>Designed & maintained by Naved Sayed | © 2026</sub>
 
 </div>
+<h2 align="center">🐍 My Contribution Journey</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Naved994/Naved994/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+</div>
